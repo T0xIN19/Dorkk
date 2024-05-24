@@ -1,3 +1,3 @@
 # Dorkk
 
-* https://accural-app-dev.azurewebsites.net/login<br>
+* intitle:"CrushFTP WebInterface" inurl:/WebInterface/login.html<br>
